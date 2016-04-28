@@ -1,12 +1,12 @@
 
 body{
-		margin: 0;
-		padding:0;
-		}
+  margin: 0;
+  padding:0;
+}
 
 #header{
-	border:black 2px solid;
-	background: black;
+  border:black 2px solid;
+  background: black;
 }
 
 .slider{
@@ -20,35 +20,35 @@ body{
 }
 
 .Ham{
-	  width:42px;
-	  height:33px;
-    padding-left:2px;
-		padding-top: 2px;
-		padding-bottom: 2px;
-		margin-top: 3px;
-		margin-left: 3px;
+  width:42px;
+  height:33px;
+  padding-left:2px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  margin-top: 3px;
+  margin-left: 3px;
 	}
 
 
 
 .slider1{
-margin-top:2px;
-position: absolute;
-top:10px;
-left:10px;
+  margin-top:2px;
+  position: absolute;
+  top:10px;
+  left:10px;
 }
 .slider2{
-position: absolute;
-top:23px;
-left:10px;
+  position: absolute;
+  top:23px;
+  left:10px;
 }
 .slider3{
-position: absolute;
-top:34px;
-left:10px;
+  position: absolute;
+  top:34px;
+  left:10px;
 }
 .list{
-	z-index:100;
-	list-style: none;
-	color: white;
+  z-index:100;
+  list-style: none;
+  color: white;
 }
